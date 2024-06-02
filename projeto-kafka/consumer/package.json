@@ -1,0 +1,9 @@
+{
+  "name": "kafka-consumer",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "kafka-node": "^5.0.0",
+    "retry": "^0.12.0"
+  }
+}
