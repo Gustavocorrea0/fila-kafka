@@ -1,0 +1,2 @@
+> Iniciar Projeto: docker compose up
+> Adicionar um veiculo: curl -X POST http://localhost:5000/produce -H "Content-Type: application/json" -d '{"make":"<marca>", "model":"<modelo>", "year":<ano>, "color":"<cor>"}'
