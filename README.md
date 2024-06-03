@@ -3,7 +3,7 @@
 ## Ferramentas Necessarias
 IDEA: [Visual Studio Code](https://code.visualstudio.com/) &nbsp;&middot;&nbsp; <br>
 Terminal Linux
-Postman(Opcional): [Postman](https://www.postman.com/downloads/) &nbsp;&middot;&nbsp; <br><br>
+Postman(Opcional): [Postman](https://www.postman.com/downloads/) &nbsp;&middot;&nbsp; <br>
 
 ## Tecnologias
 <a>Kafka</a><br>
