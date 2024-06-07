@@ -2,7 +2,7 @@
 
 ## Ferramentas Necessarias
 IDEA: [Visual Studio Code](https://code.visualstudio.com/) &nbsp;&middot;&nbsp; <br>
-Terminal Linux
+Terminal Linux <br>
 Postman(Opcional): [Postman](https://www.postman.com/downloads/) &nbsp;&middot;&nbsp; <br>
 
 ## Tecnologias
